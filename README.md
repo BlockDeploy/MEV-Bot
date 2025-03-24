@@ -1,4 +1,8 @@
+
+
 # MevBot - Advanced MEV Arbitrage Bot on Ethereum
+
+[**Visit BlockDeploy**](https://blockdeploy.tech) | [**Explore Contracts**](https://blockdeploy.tech/contracts.html)
 
 ![MevBot Screenshot](https://i.ibb.co/20q8XfQd/image-3.jpg)
 
@@ -90,6 +94,10 @@
 
 ---
 
+# Interface
+
+![MevBot Transaction Screenshot](https://i.ibb.co/SDb24rb6/Interface.png)
+
 ## Operational Details
 
 - **Mempool Analysis:** Actively scans using `fetchMempoolData` and `findNewContracts`.  
@@ -128,5 +136,3 @@
 ## Disclaimer
 
 MEV strategies involve risks, including gas fee fluctuations and market volatility. Use at your own discretion and ensure compliance with local regulations.
-
----
